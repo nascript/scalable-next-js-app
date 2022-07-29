@@ -33,7 +33,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-
 ## Build Scalable Architecture for your Next.js Project
 
 - with yarn add
@@ -41,5 +40,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 `source` https://www.youtube.com/watch?v=Iu5aZDqZt8E
 
 # STEP
+
 - `npx create-next-app --typescript .`
-- `create file .nvmrc` : to set up version of node in prohject used
+- `create file .nvmrc` : to set up version of node in project used
+- linter Eslint add rule in file `.eslintrc.json`
+- install prettier and `.prettierignore`

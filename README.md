@@ -46,3 +46,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - linter Eslint add rule in file `.eslintrc.json`
 - install prettier and `.prettierignore`
 - add git Hooks with husky to make sure format or check code before commit/push
+- add commitlint to add rules commit message

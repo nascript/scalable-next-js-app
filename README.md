@@ -45,3 +45,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - `create file .nvmrc` : to set up version of node in project used
 - linter Eslint add rule in file `.eslintrc.json`
 - install prettier and `.prettierignore`
+- add git Hooks with husky to make sure format or check code before commit/push

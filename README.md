@@ -47,3 +47,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - install prettier and `.prettierignore`
 - add git Hooks with husky to make sure format or check code before commit/push
 - add commitlint to add rules commit message
+- add folder `.vscode` to rule vscode like formatOnSave and debugging script etc.
+- add cross-env
